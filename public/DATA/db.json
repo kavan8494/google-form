@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "stdName": "trtryt",
+      "gender": "Male",
+      "Gmail": "yryry",
+      "Phone": "65665656565",
+      "Adress": "gfhfh",
+      "id": 3
+    },
+    {
+      "stdName": "fsff",
+      "gender": "Male",
+      "Gmail": "sfsf@gmail.com",
+      "Phone": "968689889",
+      "Adress": "fsfs",
+      "id": 4
+    }
+  ]
+}

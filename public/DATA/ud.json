@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "username": "FDFDF",
+      "email": "DFG",
+      "password": "GDG",
+      "id": 1
+    },
+    {
+      "username": "manu",
+      "email": "fdtr",
+      "password": "rtrytr",
+      "id": 2
+    },
+    {
+      "username": "kavan  kiumar",
+      "email": "kavan8970@gmail",
+      "password": "547887878",
+      "id": 3
+    },
+    {
+      "username": "sameer",
+      "email": "sameer@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ]
+}

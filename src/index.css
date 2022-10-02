@@ -1,0 +1,147 @@
+h1 {
+  color: brown;
+  text-shadow: 5px;
+}
+
+.navbar {
+  background-color: aquamarine;
+  display: flex;
+}
+
+.list {
+  display: flex;
+}
+
+ul>li {
+  margin-right: 40px;
+}
+
+li>a {
+  text-decoration: none;
+}
+
+/* login form */
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.form-box {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 5px 20px rgb(241, 241, 241);
+  width: 330px;
+  height: 422px;
+  border-radius: 15px;
+}
+
+.field {
+  margin: 10px;
+}
+
+.field>input {
+  width: 275px;
+  height: 38px;
+  margin: 10px;
+}
+
+.field>label {
+  padding-left: 10px;
+}
+
+.form-box>button {
+  margin-left: 20px;
+  width: 283px;
+  height: 41px;
+}
+
+.form-box>h1 {
+  margin-left: 20px;
+  color: black;
+}
+
+.form>h1 {
+  position: absolute;
+  top: 100px;
+  color: rgb(0, 0, 0);
+}
+
+/* login form */
+
+
+/* CONTACT FORM */
+
+.contact-form {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  padding: 10px;
+  position: absolute;
+  top: 30%;
+  background-color: rgb(255, 255, 255);
+}
+
+.home-content>div {
+  display: grid;
+  place-items: center;
+}
+
+.heading>h1 {
+  width: 800px;
+  color: black;
+}
+
+.contact-field>input {
+  height: 40px;
+  width: 500px;
+  margin-top: 5px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+
+.contact-field>label {
+  font-size: 25PX;
+}
+
+.contact-field {
+  margin: 2px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding-left: 10px;
+  height: 100px;
+  width: 800px;
+}
+
+.fieldset{
+  width: 800px;
+}
+.fieldset>input{
+  margin: 20px;
+}
+.fieldset>label{
+  font-size: 20px;
+}
+
+/* sheets */
+
+.table-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table{
+  width: 1000px;
+  height: 100px;
+}
+
+/* DETAILS */
+
+.details-box{
+  display: flex;
+  justify-content: center;
+  
+}
